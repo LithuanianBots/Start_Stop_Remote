@@ -1179,7 +1179,7 @@
 		(path "/ea4d8c8d-e3b5-47fa-b57d-4ed707bf3b91")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -1714,7 +1714,7 @@
 		(path "/40d49024-fd6b-4c77-9986-930fcfdfed5e")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -6852,7 +6852,7 @@
 		(path "/08b05b0d-2c9a-4bf1-91ff-18ffd0006363")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -7172,7 +7172,7 @@
 		(path "/a4a6cae4-8457-44ff-9233-01a99b88a778")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -8347,7 +8347,7 @@
 		(path "/6a576810-6353-4b99-9049-1318f1f9a18e")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -15498,7 +15498,7 @@
 		(path "/dd008db2-6cd7-4eb5-816b-7dba01d5626a")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -15839,7 +15839,7 @@
 		(path "/e0c73215-d632-410a-b9fa-79f75c3fcc3d")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -16611,7 +16611,7 @@
 		(path "/ffafcaf0-aaa5-4b47-971f-3379823ab7b9")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -16919,7 +16919,7 @@
 		(path "/a9bc0c5f-9306-4df2-b02e-d7abf7b060f4")
 		(sheetname "/")
 		(sheetfile "Start_Stop_Remote.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
